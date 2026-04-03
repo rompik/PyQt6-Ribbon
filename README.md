@@ -1,9 +1,8 @@
-# Ribbex
+# Ribbex (Fork of https://github.com/haiiliin/pyqtribbon)
 
-[![Documentation Status](https://readthedocs.org/projects/pyqribbon/badge/?version=latest)](https://pyqribbon.readthedocs.io/en/stable/?badge=latest)
 [![Tests](https://github.com/rompik/ribbex/actions/workflows/tests.yml/badge.svg)](https://github.com/rompik/ribbex/actions/workflows/tests.yml)
 [![PyPI](https://github.com/rompik/ribbex/actions/workflows/publish.yml/badge.svg)](https://github.com/rompik/ribbex/actions/workflows/publish.yml)
-[![Coverage Status](https://coveralls.io/repos/github/rompik/ribbex/badge.svg?branch=main)](https://coveralls.io/github/rompik/ribbex?branch=main)
+
 
 [![PyPI license](https://img.shields.io/pypi/l/ribbex.svg)](https://github.com/rompik/ribbex/blob/main/LICENSE)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ribbex.svg)](https://www.python.org/)
