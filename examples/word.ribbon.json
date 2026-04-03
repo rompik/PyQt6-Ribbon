@@ -289,12 +289,12 @@
               },
               {
                 "commandRef": "cmd.cut",
-                "size": "small",
+                "size": "medium",
                 "showText": false
               },
               {
                 "commandRef": "cmd.copy",
-                "size": "small",
+                "size": "medium",
                 "showText": false
               },
               {
@@ -310,8 +310,7 @@
             "priority": 20,
             "items": [
               {
-                "commandRef": "cmd.fontFamily",
-                "width": "wide"
+                "commandRef": "cmd.fontFamily"
               },
               {
                 "commandRef": "cmd.bold",
@@ -356,6 +355,25 @@
               {
                 "commandRef": "cmd.fontSize",
                 "size": "small"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tab.test",
+        "labelKey": "tab.test",
+        "order": 100,
+        "groups": [
+          {
+            "id": "grp.new",
+            "labelKey": "grp.new",
+            "priority": 10,
+            "items": [
+              {
+                "commandRef": "cmd.cut",
+                "size": "large",
+                "showText": true
               }
             ]
           }

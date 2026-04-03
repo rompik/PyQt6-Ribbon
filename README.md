@@ -14,7 +14,6 @@ Ribbon Bar for PyQt6 applications.
 - GitHub Repository: [github.com/rompik/ribbex](https://github.com/rompik/ribbex/).
 - Documentation: [pyqribbon.readthedocs.io/en/stable](https://pyqribbon.readthedocs.io/en/stable/).
 - Python Package Index: [pypi.org/project/ribbex](https://pypi.org/project/ribbex/).
-- Read the Docs: [readthedocs.org/projects/pyqribbon](https://readthedocs.org/projects/pyqribbon/).
 
 ## Installation
 
